@@ -1,17 +1,17 @@
 [
   {
-    "objectID": "workshops.html",
-    "href": "workshops.html",
-    "title": "Workshops Attended",
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "My Personal Webpage",
     "section": "",
-    "text": "2024\n\nAdvanced Tools for Literate Programming and Machine Learning, August 6-7, 2024"
+    "text": "Welcome to my personal page! I thrive on solving complex problems and love turning innovative ideas into reality. Whether I’m coding, designing, or exploring new fields, I bring dedication and curiosity to everything I do. Outside of work, I enjoy hiking, reading science fiction, and experimenting with new recipes. Here, you’ll find insights into my projects, interests, and the journey I’m on to make a positive impact in the world. Thank you for visiting, and I hope you find something that inspires you!\nTo learn more about Quarto websites visit https://quarto.org/docs/websites."
   },
   {
     "objectID": "blog.html",
     "href": "blog.html",
     "title": "Blog",
     "section": "",
-    "text": "Blogpost Example\n\n\n\n\n\n\nblog post\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nAnother blogpost example\n\n\n\n\n\n\nblog post\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nA sample work\n\n\n\n\n\n\nblog with code\n\n\n\n\n\n\n\n\n\n\n\n\n\nNo matching items"
+    "text": "Blogpost Example\n\n\n\n\n\n\nblog post\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nHari ♡ Ammu\n\n\n\n\n\n\nblog post\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nA sample work\n\n\n\n\n\n\nblog with code\n\n\n\n\n\n\n\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "posts/post_with_code.html",
@@ -21,10 +21,38 @@
     "text": "For a demonstration of a line plot on a polar axis, see Figure 1.\n\n\nCode\nimport numpy as np\nimport matplotlib.pyplot as plt\n\nr = np.arange(0, 2, 0.01)\ntheta = 2 * np.pi * r\nfig, ax = plt.subplots(\n  subplot_kw = {'projection': 'polar'} \n)\nax.plot(theta, r)\nax.set_rticks([0.5, 1, 1.5, 2])\nax.grid(True)\nplt.show()\n\n\n\n\n\n\n\n\nFigure 1: A line plot on a polar axis"
   },
   {
+    "objectID": "posts/another_post.html",
+    "href": "posts/another_post.html",
+    "title": "Blogpost Example",
+    "section": "",
+    "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+  },
+  {
+    "objectID": "posts/post.html",
+    "href": "posts/post.html",
+    "title": "Hari 💘 Ammu",
+    "section": "",
+    "text": "हारी के नाम, प्रेम की झलक\nजहां दिल मिलते हैं, जहां प्रेम की शुद्ध किरणें चमकती हैं, वहां एक आत्मा सुंदरता से चलती है, और अमृता की गोदी में अपना घर पाती है।\nहारी, रात की चुप्पी में, जब सितारे ऊपर चमकते हैं, जान लो कि प्रेम एक साझा मार्ग है, हर हंसी, हर देख के साथ।\nहालांकि तूफान आ सकते हैं और ज्वालाएं उठ सकती हैं, प्रेम की सच्ची ताकत तुम्हारी आंखों में है, हर झगड़े और आंसू के बावजूद, प्रेम गहरा होता जाता है।\nअमृता का दिल, इतना सच्चा और मजबूत, तुम्हारी रौशनी में अपना प्रतिबिंब पाता है। हर झगड़े और हर आंसू में, प्रेम और भी गहरा होता है, साल दर साल।\nतो उसे अपने करीब पकड़ो, खुशियों और कठिनाइयों में, क्योंकि उसकी आंखों में, तुम अपनी जिंदगी देख सकते हो। साथ में अपने आत्मा को ऊंचा उठाने दो, प्रेम की झलक में हमेशा के लिए।"
+  },
+  {
+    "objectID": "workshops.html",
+    "href": "workshops.html",
+    "title": "Workshops Attended",
+    "section": "",
+    "text": "2024\n\nAdvanced Tools for Literate Programming and Machine Learning, August 6-7, 2024"
+  },
+  {
+    "objectID": "papers.html",
+    "href": "papers.html",
+    "title": "Papers",
+    "section": "",
+    "text": "2024\n\nResearcher (2024). A very Cool AI Paper. arXiv 2402.10951."
+  },
+  {
     "objectID": "about.html",
     "href": "about.html",
     "title": "About",
     "section": "",
-    "text": "I’m a second year Computer Science and Engineering student doing minor in Computational Mathematics with a passion for pushing the boundaries of knowledge in AI. With a strong background in Computer Science, my research focuses on Practive Oriented AI, aiming to contribute to meaningful advancements and solutions."
+    "text": "Hello! I’m Rohith M B, currently pursuing a degree in Computer Science Engineering with a minor in Computational Mathematics. My academic journey blends a deep passion for technology with a strong focus on mathematical principles. I’m proficient in programming languages such as Python and C, and have experience working with databases like MongoDB. This combination of skills allows me to approach complex problems with both a software and mathematical perspective. I’m excited to leverage my expertise in innovative projects and contribute to advancements in the tech industry."
   }
 ]

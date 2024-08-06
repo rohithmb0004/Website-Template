@@ -5,13 +5,36 @@ format:
   html:
     df-print: paged
     toc: true
-text: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
-  incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud
-  exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute
-  irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla
-  pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia
-  deserunt mollit anim id est laborum.
-title: Another blogpost example
+text: Love
+title: Hari ♡ Ammu
+
 
 ---
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+  हारी के नाम, प्रेम की झलक
+
+  जहां दिल मिलते हैं,
+  जहां प्रेम की शुद्ध किरणें चमकती हैं,
+  वहां एक आत्मा सुंदरता से चलती है,
+  और अमृता की गोदी में अपना घर पाती है।
+
+  हारी, रात की चुप्पी में,
+  जब सितारे ऊपर चमकते हैं,
+  जान लो कि प्रेम एक साझा मार्ग है,
+  हर हंसी, हर देख के साथ।
+
+  हालांकि तूफान आ सकते हैं और ज्वालाएं उठ सकती हैं,
+  प्रेम की सच्ची ताकत तुम्हारी आंखों में है,
+  हर झगड़े और आंसू के बावजूद,
+  प्रेम गहरा होता जाता है।
+
+  अमृता का दिल, इतना सच्चा और मजबूत,
+  तुम्हारी रौशनी में अपना प्रतिबिंब पाता है।
+  हर झगड़े और हर आंसू में,
+  प्रेम और भी गहरा होता है, साल दर साल।
+
+  तो उसे अपने करीब पकड़ो, खुशियों और कठिनाइयों में,
+  क्योंकि उसकी आंखों में, तुम अपनी जिंदगी देख सकते हो।
+  साथ में अपने आत्मा को ऊंचा उठाने दो,
+  प्रेम की झलक में हमेशा के लिए।
+
+
